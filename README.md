@@ -4,7 +4,7 @@
 ## Description
 It is a project to test the few skills i have learnt this week and it also contains my personal information,my achivements and my personal skills and interests
 ## Setup/Installation Requirements
-* Clone the respiratory
+* Clone the repository
 * git clone https://github.com/EmmanuelWenyaa1738/IP-PROJECT.git
 * Open the project on your favourite editor
 * Then open the project on the live server
